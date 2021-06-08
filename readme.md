@@ -6,12 +6,13 @@ It will return 200 when the user-agent contains "office" (which will be in the r
 
 
 needs PHP 8
+hosted on http://excel.gratisapi.nl
 You should use it as follows:
 
 ```
-example.com?url=[this is your actual url]
+http://excel.gratisapi.nl/?url=https://google.com
 ```
 
-where example.com is the domain where you host this code
+where google.com is the target site
 
 ![image](https://user-images.githubusercontent.com/486765/121019269-8fba2280-c79f-11eb-8265-c09ec0d61ffb.png)
