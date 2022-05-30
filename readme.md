@@ -6,7 +6,9 @@ It will return 200 when the user-agent contains "office" (which will be in the r
 
 
 needs PHP 8
+
 hosted on http://excel.gratisapi.nl
+
 You should use it as follows:
 
 ```
